@@ -19,7 +19,6 @@
 </h3>
 
 <p align="center">
-  <a href="#how-to-use">How To Use</a> •
   <a href="#how-to-run-locally">How To Run Locally</a> •
   <a href="#built-process">Built process</a> •
   <a href="#feedback">Feedback</a>
